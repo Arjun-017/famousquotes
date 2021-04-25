@@ -31,6 +31,7 @@
 	width: calc(800px * 2);
 	-webkit-animation: slide 1.5s ease;
 	animation: slide 1.5s ease;
+	-webkit-animation: slide 1.5s ease;
 	animation-fill-mode: forwards;
 	animation-delay: 5s;
 	animation-iteration-count: 1;
@@ -43,9 +44,10 @@
 	font-family: 'Josefin Slab', serif;
 	font-size: 20px;
 	color: white;
-	animation: disappear 7s ease;
-	-webkit-animation: disappear 7s ease;
+	animation: disappear 0.5s ease;
+	-webkit-animation: disappear 0.5s ease;
 	animation-fill-mode: forwards;
+	animation-delay:4s;
 	}
 
 	.slide-1{
@@ -171,7 +173,9 @@
 	width: 600px;
 	margin: 0 auto;
 	}
-
+	.subtext{
+	opacity:0.0;
+	}
 	.slide {
 	float: left;
 	height: 600px;
@@ -181,7 +185,8 @@
 	.slide-wrapper {
 	width: calc(600px * 2);
 	animation: slide01 1.5s ease;
-	animation-delay: 3s;
+	-webkit-animation: slide01 1.5s ease;
+	animation-delay: 5s;
 	animation-fill-mode: forwards;
 	animation-iteration-count: 1;
 	}
@@ -220,9 +225,10 @@
 	left: 100px;
 	font-family: 'Josefin Slab', serif;
 	font-size: 10px;
-	-webkit-animation: disappear 4s;
-	animation: disappear 4s;
+	-webkit-animation: disappear 0.5s;
+	animation: disappear 0.5s;
 	animation-fill-mode: forwards;
+	animation-delay:4s;
 	}
 
 	.slide {
@@ -235,7 +241,7 @@
 	width: calc(350px * 2);
 	-webkit-animation: slide02 1.5s ease;
 	animation: slide02 1.5s ease;
-	animation-delay: 3s;	
+	animation-delay: 5s;	
 	animation-fill-mode: forwards;
 	animation-iteration-count: 1;
 	}
