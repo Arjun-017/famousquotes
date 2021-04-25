@@ -54,4 +54,4 @@
 
 	var Q = document.getElementById('mot-quote');
 	var y = localStorage.getItem(x);
-	Q.innerHTML = "dis hgfvwy eilvuw erah gviue fnbk ijeanflbv ha  er ;kjb oeijk k kg udysag fiewr wefyh eqvhe ril wefuiqh fewi uefh wefiuhq erihug uoqe rogjq eogjqeo ig jo;igje nf wq re iugheq irugheirugh ieqrugh ieurge iugeg ergnehilg rdfg wrg wr gwr wgrg wrg gwrg wgrwg gwrgw gwrg grw gwr wggrw wggr wggwr  gwwg";
+	Q.innerHTML = y;
