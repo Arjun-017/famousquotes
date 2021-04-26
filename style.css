@@ -224,7 +224,7 @@
 	position: relative;
 	top: 20%;
 	overflow: hidden;
-	height: 350px;
+	height: 400px;
 	width: 300px;
 	margin: 0px auto;
 	}
@@ -245,7 +245,7 @@
 
 	.slide {
 	float: left;
-	height: 350px;
+	height: 400px;
 	width: 300px;
 	}
 
