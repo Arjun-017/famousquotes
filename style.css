@@ -87,7 +87,7 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	padding-top: 20px;
+	padding-top: 30px;
 	overflow: auto;
 	}
 
@@ -262,5 +262,8 @@
 	font-size: 25px;
 	text-align: center;
 	color: white;
+	}
+	.slide:nth-child(2) {
+	padding-top:10px;
 	}
 	}
