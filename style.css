@@ -216,12 +216,12 @@
 	body{
 	background:repeating-linear-gradient(45deg, #00f, #00f 25px, #70a 25px, #70a 50px, #f00 50px, #f00 75px, #f70 75px, #f70 100px, #ff0 100px, #ff0 125px, #0f0 125px, #0f0 150px);
 	height: 100%;
-	background: rgba(0,0,0,0.4);
+	background: rgba(0,0,0,0.2);
 	}
 
 	#slideshow {
 	position: relative;
-	top: 100px;
+	top: 150px;
 	overflow: hidden;
 	height: 400px;
 	width: 300px;
