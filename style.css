@@ -221,9 +221,9 @@
 
 	#slideshow {
 	position: relative;
-	top: 150px;
+	top: 80px;
 	overflow: hidden;
-	height: 400px;
+	height: 380px;
 	width: 300px;
 	margin: 0px auto;
 	}
@@ -244,7 +244,7 @@
 
 	.slide {
 	float: left;
-	height: 400px;
+	height: 380px;
 	width: 300px;
 	}
 
